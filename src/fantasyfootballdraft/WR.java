@@ -10,7 +10,7 @@ package fantasyfootballdraft;
  */
 public class WR extends Position{
     
-    private final int NUM_OF_STARTING_SPOTS = 3;
+    private final int NUM_OF_STARTING_SPOTS = 2;
 
     @Override
     public int getStartingPosition() {
@@ -25,5 +25,10 @@ public class WR extends Position{
     @Override
     public int getNumOfStartingSpots() {
         return NUM_OF_STARTING_SPOTS;
+    }
+    
+    @Override
+    public boolean canFlex() {
+        return true;
     }
 }

@@ -101,10 +101,10 @@ public class FFUI extends javax.swing.JFrame {
         vinnieRB2 = new javax.swing.JLabel();
         vinnieWR1 = new javax.swing.JLabel();
         vinnieWR2 = new javax.swing.JLabel();
-        vinnieWR3 = new javax.swing.JLabel();
+        vinnieFLEX1 = new javax.swing.JLabel();
         vinnieTE1 = new javax.swing.JLabel();
         vinnieDST1 = new javax.swing.JLabel();
-        vinnieK1 = new javax.swing.JLabel();
+        vinniePK1 = new javax.swing.JLabel();
         vinnieB1 = new javax.swing.JLabel();
         vinnieB2 = new javax.swing.JLabel();
         vinnieB3 = new javax.swing.JLabel();
@@ -136,10 +136,10 @@ public class FFUI extends javax.swing.JFrame {
         vinceRB2 = new javax.swing.JLabel();
         vinceWR1 = new javax.swing.JLabel();
         vinceWR2 = new javax.swing.JLabel();
-        vinceWR3 = new javax.swing.JLabel();
+        vinceFLEX1 = new javax.swing.JLabel();
         vinceTE1 = new javax.swing.JLabel();
         vinceDST1 = new javax.swing.JLabel();
-        vinceK1 = new javax.swing.JLabel();
+        vincePK1 = new javax.swing.JLabel();
         vinceB1 = new javax.swing.JLabel();
         vinceB2 = new javax.swing.JLabel();
         vinceB3 = new javax.swing.JLabel();
@@ -166,10 +166,10 @@ public class FFUI extends javax.swing.JFrame {
         chrisRB2 = new javax.swing.JLabel();
         chrisWR1 = new javax.swing.JLabel();
         chrisWR2 = new javax.swing.JLabel();
-        chrisWR3 = new javax.swing.JLabel();
+        chrisFLEX1 = new javax.swing.JLabel();
         chrisTE1 = new javax.swing.JLabel();
         chrisDST1 = new javax.swing.JLabel();
-        chrisK1 = new javax.swing.JLabel();
+        chrisPK1 = new javax.swing.JLabel();
         chrisB1 = new javax.swing.JLabel();
         chrisB2 = new javax.swing.JLabel();
         chrisB3 = new javax.swing.JLabel();
@@ -196,10 +196,10 @@ public class FFUI extends javax.swing.JFrame {
         ryanRB2 = new javax.swing.JLabel();
         ryanWR1 = new javax.swing.JLabel();
         ryanWR2 = new javax.swing.JLabel();
-        ryanWR3 = new javax.swing.JLabel();
+        ryanFLEX1 = new javax.swing.JLabel();
         ryanTE1 = new javax.swing.JLabel();
         ryanDST1 = new javax.swing.JLabel();
-        ryanK1 = new javax.swing.JLabel();
+        ryanPK1 = new javax.swing.JLabel();
         ryanB1 = new javax.swing.JLabel();
         ryanB2 = new javax.swing.JLabel();
         ryanB3 = new javax.swing.JLabel();
@@ -226,10 +226,10 @@ public class FFUI extends javax.swing.JFrame {
         derekRB2 = new javax.swing.JLabel();
         derekWR1 = new javax.swing.JLabel();
         derekWR2 = new javax.swing.JLabel();
-        derekWR3 = new javax.swing.JLabel();
+        derekFLEX1 = new javax.swing.JLabel();
         derekTE1 = new javax.swing.JLabel();
         derekDST1 = new javax.swing.JLabel();
-        DerekK1 = new javax.swing.JLabel();
+        derekPK1 = new javax.swing.JLabel();
         derekB1 = new javax.swing.JLabel();
         derekB2 = new javax.swing.JLabel();
         derekB3 = new javax.swing.JLabel();
@@ -256,10 +256,10 @@ public class FFUI extends javax.swing.JFrame {
         brandonRB2 = new javax.swing.JLabel();
         brandonWR1 = new javax.swing.JLabel();
         brandonWR2 = new javax.swing.JLabel();
-        brandonWR3 = new javax.swing.JLabel();
+        brandonFLEX1 = new javax.swing.JLabel();
         brandonTE1 = new javax.swing.JLabel();
         brandonDST1 = new javax.swing.JLabel();
-        BrandonK1 = new javax.swing.JLabel();
+        brandonPK1 = new javax.swing.JLabel();
         brandonB1 = new javax.swing.JLabel();
         brandonB2 = new javax.swing.JLabel();
         brandonB3 = new javax.swing.JLabel();
@@ -286,10 +286,10 @@ public class FFUI extends javax.swing.JFrame {
         tkRB2 = new javax.swing.JLabel();
         tkWR1 = new javax.swing.JLabel();
         tkWR2 = new javax.swing.JLabel();
-        tkWR3 = new javax.swing.JLabel();
+        tkFLEX1 = new javax.swing.JLabel();
         tkTE1 = new javax.swing.JLabel();
         tkDST1 = new javax.swing.JLabel();
-        tkK1 = new javax.swing.JLabel();
+        tkPK1 = new javax.swing.JLabel();
         tkB1 = new javax.swing.JLabel();
         tkB2 = new javax.swing.JLabel();
         tkB3 = new javax.swing.JLabel();
@@ -316,10 +316,10 @@ public class FFUI extends javax.swing.JFrame {
         devinRB2 = new javax.swing.JLabel();
         devinWR1 = new javax.swing.JLabel();
         devinWR2 = new javax.swing.JLabel();
-        devinWR3 = new javax.swing.JLabel();
+        devinFLEX1 = new javax.swing.JLabel();
         devinTE1 = new javax.swing.JLabel();
         devinDST1 = new javax.swing.JLabel();
-        devinK1 = new javax.swing.JLabel();
+        devinPK1 = new javax.swing.JLabel();
         devinB1 = new javax.swing.JLabel();
         devinB2 = new javax.swing.JLabel();
         devinB3 = new javax.swing.JLabel();
@@ -346,10 +346,10 @@ public class FFUI extends javax.swing.JFrame {
         keithRB2 = new javax.swing.JLabel();
         keithWR1 = new javax.swing.JLabel();
         keithWR2 = new javax.swing.JLabel();
-        keithWR3 = new javax.swing.JLabel();
+        keithFLEX1 = new javax.swing.JLabel();
         keithTE1 = new javax.swing.JLabel();
         keithDST1 = new javax.swing.JLabel();
-        keithK1 = new javax.swing.JLabel();
+        keithPK1 = new javax.swing.JLabel();
         keithB1 = new javax.swing.JLabel();
         keithB2 = new javax.swing.JLabel();
         keithB3 = new javax.swing.JLabel();
@@ -376,10 +376,10 @@ public class FFUI extends javax.swing.JFrame {
         johnRB2 = new javax.swing.JLabel();
         johnWR1 = new javax.swing.JLabel();
         johnWR2 = new javax.swing.JLabel();
-        johnWR3 = new javax.swing.JLabel();
+        johnFLEX1 = new javax.swing.JLabel();
         johnTE1 = new javax.swing.JLabel();
         johnDST1 = new javax.swing.JLabel();
-        johnK1 = new javax.swing.JLabel();
+        johnPK1 = new javax.swing.JLabel();
         johnB1 = new javax.swing.JLabel();
         johnB2 = new javax.swing.JLabel();
         johnB3 = new javax.swing.JLabel();
@@ -577,7 +577,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel19.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 420, -1, -1));
 
-        jLabel20.setText("WR3");
+        jLabel20.setText("FLEX");
         jLabel20.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel20, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 460, -1, -1));
 
@@ -620,91 +620,91 @@ public class FFUI extends javax.swing.JFrame {
         vinnieB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieB6.setText("--------------------");
         vinnieB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 820, 100, -1));
+        getContentPane().add(vinnieB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 820, 150, -1));
         vinnieB6.setName("vinnieB6");
 
         vinnieQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieQB1.setText("--------------------");
         vinnieQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 260, 100, -1));
+        getContentPane().add(vinnieQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 260, 150, -1));
         vinnieQB1.setName("vinnieQB1");
 
         vinnieRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieRB1.setText("--------------------");
         vinnieRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 300, 100, -1));
+        getContentPane().add(vinnieRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 300, 150, -1));
         vinnieRB1.setName("vinnieRB1");
 
         vinnieRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieRB2.setText("--------------------");
         vinnieRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 340, 100, -1));
+        getContentPane().add(vinnieRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 340, 150, -1));
         vinnieRB2.setName("vinnieRB2");
 
         vinnieWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieWR1.setText("--------------------");
         vinnieWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 380, 100, -1));
+        getContentPane().add(vinnieWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 380, 150, -1));
         vinnieWR1.setName("vinnieWR1");
 
         vinnieWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieWR2.setText("--------------------");
         vinnieWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 420, 100, -1));
+        getContentPane().add(vinnieWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 420, 150, -1));
         vinnieWR2.setName("vinnieWR2");
 
-        vinnieWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        vinnieWR3.setText("--------------------");
-        vinnieWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 460, 100, -1));
-        vinnieWR3.setName("vinnieWR3");
+        vinnieFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        vinnieFLEX1.setText("--------------------");
+        vinnieFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(vinnieFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 460, 150, -1));
+        vinnieFLEX1.setName("vinnieFLEX1");
 
         vinnieTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieTE1.setText("--------------------");
         vinnieTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 500, 100, -1));
+        getContentPane().add(vinnieTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 500, 150, -1));
         vinnieTE1.setName("vinnieTE1");
 
         vinnieDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieDST1.setText("--------------------");
         vinnieDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 540, 100, -1));
+        getContentPane().add(vinnieDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 540, 140, -1));
         vinnieDST1.setName("vinnieDST1");
 
-        vinnieK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        vinnieK1.setText("--------------------");
-        vinnieK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 580, 100, -1));
-        vinnieK1.setName("vinnieK1");
+        vinniePK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        vinniePK1.setText("--------------------");
+        vinniePK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(vinniePK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 580, 150, -1));
+        vinniePK1.setName("vinniePK1");
 
         vinnieB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieB1.setText("--------------------");
         vinnieB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 620, 100, -1));
+        getContentPane().add(vinnieB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 620, 150, -1));
         vinnieB1.setName("vinnieB1");
 
         vinnieB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieB2.setText("--------------------");
         vinnieB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 660, 100, -1));
+        getContentPane().add(vinnieB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 660, 150, -1));
         vinnieB2.setName("vinnieB2");
 
         vinnieB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieB3.setText("--------------------");
         vinnieB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 700, 100, -1));
+        getContentPane().add(vinnieB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 700, 150, -1));
         vinnieB3.setName("vinnieB3");
 
         vinnieB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieB4.setText("--------------------");
         vinnieB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 740, 100, -1));
+        getContentPane().add(vinnieB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 740, 150, -1));
         vinnieB4.setName("vinnieB4");
 
         vinnieB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinnieB5.setText("--------------------");
         vinnieB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinnieB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 780, 100, -1));
+        getContentPane().add(vinnieB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(40, 780, 150, -1));
         vinnieB5.setName("vinnieB5");
 
         jComboBox1.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
@@ -756,7 +756,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel33.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel33, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 420, -1, -1));
 
-        jLabel34.setText("WR3");
+        jLabel34.setText("FLEX");
         jLabel34.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel34, new org.netbeans.lib.awtextra.AbsoluteConstraints(190, 460, -1, -1));
 
@@ -799,91 +799,91 @@ public class FFUI extends javax.swing.JFrame {
         vinceB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceB6.setText("--------------------");
         vinceB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 820, 100, -1));
+        getContentPane().add(vinceB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 820, 160, -1));
         vinceB6.setName("vinceB6");
 
         vinceQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceQB1.setText("--------------------");
         vinceQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 260, 100, -1));
+        getContentPane().add(vinceQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 260, 160, -1));
         vinceQB1.setName("vinceQB1");
 
         vinceRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceRB1.setText("--------------------");
         vinceRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 300, 100, -1));
+        getContentPane().add(vinceRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 300, 160, -1));
         vinceRB1.setName("vinceRB1");
 
         vinceRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceRB2.setText("--------------------");
         vinceRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 340, 100, -1));
+        getContentPane().add(vinceRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 340, 160, -1));
         vinceRB2.setName("vinceRB2");
 
         vinceWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceWR1.setText("--------------------");
         vinceWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 380, 100, -1));
+        getContentPane().add(vinceWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 380, 160, -1));
         vinceWR1.setName("vinceWR1");
 
         vinceWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceWR2.setText("--------------------");
         vinceWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 420, 100, -1));
+        getContentPane().add(vinceWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 420, 160, -1));
         vinceWR2.setName("vinceWR2");
 
-        vinceWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        vinceWR3.setText("--------------------");
-        vinceWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 460, 100, -1));
-        vinceWR3.setName("vinceWR3");
+        vinceFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        vinceFLEX1.setText("--------------------");
+        vinceFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(vinceFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 460, 160, -1));
+        vinceFLEX1.setName("vinceFLEX1");
 
         vinceTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceTE1.setText("--------------------");
         vinceTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 500, 100, -1));
+        getContentPane().add(vinceTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 500, 160, -1));
         vinceTE1.setName("vinceTE1");
 
         vinceDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceDST1.setText("--------------------");
         vinceDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 540, 100, -1));
+        getContentPane().add(vinceDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(230, 540, 150, -1));
         vinceDST1.setName("vinceDST1");
 
-        vinceK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        vinceK1.setText("--------------------");
-        vinceK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 580, 100, -1));
-        vinceK1.setName("vinceK1");
+        vincePK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        vincePK1.setText("--------------------");
+        vincePK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(vincePK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 580, 160, -1));
+        vincePK1.setName("vincePK1");
 
         vinceB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceB1.setText("--------------------");
         vinceB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 620, 100, -1));
+        getContentPane().add(vinceB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 620, 160, -1));
         vinceB1.setName("vinceB1");
 
         vinceB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceB2.setText("--------------------");
         vinceB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 660, 100, -1));
+        getContentPane().add(vinceB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 660, 160, -1));
         vinceB2.setName("vinceB2");
 
         vinceB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceB3.setText("--------------------");
         vinceB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 700, 100, -1));
+        getContentPane().add(vinceB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 700, 160, -1));
         vinceB3.setName("vinceB3");
 
         vinceB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceB4.setText("--------------------");
         vinceB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 740, 100, -1));
+        getContentPane().add(vinceB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 740, 160, -1));
         vinceB4.setName("vinceB4");
 
         vinceB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         vinceB5.setText("--------------------");
         vinceB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(vinceB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 780, 100, -1));
+        getContentPane().add(vinceB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 780, 160, -1));
         vinceB5.setName("vinceB5");
 
         jLabel44.setText("QB");
@@ -906,7 +906,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel48.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel48, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 420, -1, -1));
 
-        jLabel49.setText("WR3");
+        jLabel49.setText("FLEX");
         jLabel49.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel49, new org.netbeans.lib.awtextra.AbsoluteConstraints(380, 460, -1, -1));
 
@@ -949,91 +949,91 @@ public class FFUI extends javax.swing.JFrame {
         chrisB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisB6.setText("--------------------");
         chrisB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 820, 100, -1));
+        getContentPane().add(chrisB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 820, 160, -1));
         chrisB6.setName("chrisB6");
 
         chrisQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisQB1.setText("--------------------");
         chrisQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 260, 100, -1));
+        getContentPane().add(chrisQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 260, 160, -1));
         chrisQB1.setName("chrisQB1");
 
         chrisRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisRB1.setText("--------------------");
         chrisRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 300, 100, -1));
+        getContentPane().add(chrisRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 300, 160, -1));
         chrisRB1.setName("chrisRB1");
 
         chrisRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisRB2.setText("--------------------");
         chrisRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 340, 100, -1));
+        getContentPane().add(chrisRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 340, 160, -1));
         chrisRB2.setName("chrisRB2");
 
         chrisWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisWR1.setText("--------------------");
         chrisWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 380, 100, -1));
+        getContentPane().add(chrisWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 380, 160, -1));
         chrisWR1.setName("chrisWR1");
 
         chrisWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisWR2.setText("--------------------");
         chrisWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 420, 100, -1));
+        getContentPane().add(chrisWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 420, 160, -1));
         chrisWR2.setName("chrisWR2");
 
-        chrisWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        chrisWR3.setText("--------------------");
-        chrisWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 460, 100, -1));
-        chrisWR3.setName("chrisWR3");
+        chrisFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        chrisFLEX1.setText("--------------------");
+        chrisFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(chrisFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 460, 160, -1));
+        chrisFLEX1.setName("chrisFLEX1");
 
         chrisTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisTE1.setText("--------------------");
         chrisTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 500, 100, -1));
+        getContentPane().add(chrisTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 500, 160, -1));
         chrisTE1.setName("chrisTE1");
 
         chrisDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisDST1.setText("--------------------");
         chrisDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 540, 100, -1));
+        getContentPane().add(chrisDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(420, 540, 150, -1));
         chrisDST1.setName("chrisDST1");
 
-        chrisK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        chrisK1.setText("--------------------");
-        chrisK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 580, 100, -1));
-        chrisK1.setName("chrisK1");
+        chrisPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        chrisPK1.setText("--------------------");
+        chrisPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(chrisPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 580, 160, -1));
+        chrisPK1.setName("chrisPK1");
 
         chrisB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisB1.setText("--------------------");
         chrisB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 620, 100, -1));
+        getContentPane().add(chrisB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 620, 160, -1));
         chrisB1.setName("chrisB1");
 
         chrisB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisB2.setText("--------------------");
         chrisB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 660, 100, -1));
+        getContentPane().add(chrisB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 660, 160, -1));
         chrisB2.setName("chrisB2");
 
         chrisB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisB3.setText("--------------------");
         chrisB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 700, 100, -1));
+        getContentPane().add(chrisB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 700, 160, -1));
         chrisB3.setName("chrisB3");
 
         chrisB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisB4.setText("--------------------");
         chrisB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 740, 100, -1));
+        getContentPane().add(chrisB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 740, 160, -1));
         chrisB4.setName("chrisB4");
 
         chrisB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         chrisB5.setText("--------------------");
         chrisB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(chrisB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 780, 100, -1));
+        getContentPane().add(chrisB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 780, 160, -1));
         chrisB5.setName("chrisB5");
 
         jLabel59.setText("QB");
@@ -1056,7 +1056,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel63.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel63, new org.netbeans.lib.awtextra.AbsoluteConstraints(570, 420, -1, -1));
 
-        jLabel64.setText("WR3");
+        jLabel64.setText("FLEX");
         jLabel64.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel64, new org.netbeans.lib.awtextra.AbsoluteConstraints(570, 460, -1, -1));
 
@@ -1099,91 +1099,91 @@ public class FFUI extends javax.swing.JFrame {
         ryanB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanB6.setText("--------------------");
         ryanB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 820, 100, -1));
+        getContentPane().add(ryanB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 820, 150, -1));
         ryanB6.setName("ryanB6");
 
         ryanQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanQB1.setText("--------------------");
         ryanQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 260, 100, -1));
+        getContentPane().add(ryanQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 260, 150, -1));
         ryanQB1.setName("ryanQB1");
 
         ryanRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanRB1.setText("--------------------");
         ryanRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 300, 100, -1));
+        getContentPane().add(ryanRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 300, 150, -1));
         ryanRB1.setName("ryanRB1");
 
         ryanRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanRB2.setText("--------------------");
         ryanRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 340, 100, -1));
+        getContentPane().add(ryanRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 340, 150, -1));
         ryanRB2.setName("ryanRB2");
 
         ryanWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanWR1.setText("--------------------");
         ryanWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 380, 100, -1));
+        getContentPane().add(ryanWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 380, 150, -1));
         ryanWR1.setName("ryanWR1");
 
         ryanWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanWR2.setText("--------------------");
         ryanWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 420, 100, -1));
+        getContentPane().add(ryanWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 420, 150, -1));
         ryanWR2.setName("ryanWR2");
 
-        ryanWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        ryanWR3.setText("--------------------");
-        ryanWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 460, 100, -1));
-        ryanWR3.setName("ryanWR3");
+        ryanFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        ryanFLEX1.setText("--------------------");
+        ryanFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(ryanFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 460, 150, -1));
+        ryanFLEX1.setName("ryanFLEX1");
 
         ryanTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanTE1.setText("--------------------");
         ryanTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 500, 100, -1));
+        getContentPane().add(ryanTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 500, 150, -1));
         ryanTE1.setName("ryanTE1");
 
         ryanDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanDST1.setText("--------------------");
         ryanDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 540, 100, -1));
+        getContentPane().add(ryanDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 540, 140, -1));
         ryanDST1.setName("ryanDST1");
 
-        ryanK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        ryanK1.setText("--------------------");
-        ryanK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 580, 100, -1));
-        ryanK1.setName("ryanK1");
+        ryanPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        ryanPK1.setText("--------------------");
+        ryanPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(ryanPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 580, 150, -1));
+        ryanPK1.setName("ryanPK1");
 
         ryanB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanB1.setText("--------------------");
         ryanB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 620, 100, -1));
+        getContentPane().add(ryanB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 620, 150, -1));
         ryanB1.setName("ryanB1");
 
         ryanB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanB2.setText("--------------------");
         ryanB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 660, 100, -1));
+        getContentPane().add(ryanB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 660, 150, -1));
         ryanB2.setName("ryanB2");
 
         ryanB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanB3.setText("--------------------");
         ryanB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 700, 100, -1));
+        getContentPane().add(ryanB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 700, 150, -1));
         ryanB3.setName("ryanB3");
 
         ryanB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanB4.setText("--------------------");
         ryanB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 740, 100, -1));
+        getContentPane().add(ryanB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 740, 150, -1));
         ryanB4.setName("ryanB4");
 
         ryanB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         ryanB5.setText("--------------------");
         ryanB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(ryanB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 780, 100, -1));
+        getContentPane().add(ryanB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(600, 780, 150, -1));
         ryanB5.setName("ryanB5");
 
         jLabel74.setText("QB");
@@ -1206,7 +1206,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel78.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel78, new org.netbeans.lib.awtextra.AbsoluteConstraints(750, 420, -1, -1));
 
-        jLabel79.setText("WR3");
+        jLabel79.setText("FLEX");
         jLabel79.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel79, new org.netbeans.lib.awtextra.AbsoluteConstraints(750, 460, -1, -1));
 
@@ -1249,91 +1249,91 @@ public class FFUI extends javax.swing.JFrame {
         derekB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekB6.setText("--------------------");
         derekB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 820, 100, -1));
+        getContentPane().add(derekB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 820, 150, -1));
         derekB6.setName("derekB6");
 
         derekQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekQB1.setText("--------------------");
         derekQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 260, 100, -1));
+        getContentPane().add(derekQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 260, 150, -1));
         derekQB1.setName("derekQB1");
 
         derekRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekRB1.setText("--------------------");
         derekRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 300, 100, -1));
+        getContentPane().add(derekRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 300, 150, -1));
         derekRB1.setName("derekRB1");
 
         derekRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekRB2.setText("--------------------");
         derekRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 340, 100, -1));
+        getContentPane().add(derekRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 340, 150, -1));
         derekRB2.setName("derekRB2");
 
         derekWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekWR1.setText("--------------------");
         derekWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 380, 100, -1));
+        getContentPane().add(derekWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 380, 150, -1));
         derekWR1.setName("derekWR1");
 
         derekWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekWR2.setText("--------------------");
         derekWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 420, 100, -1));
+        getContentPane().add(derekWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 420, 150, -1));
         derekWR2.setName("derekWR2");
 
-        derekWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        derekWR3.setText("--------------------");
-        derekWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 460, 100, -1));
-        derekWR3.setName("derekWR3");
+        derekFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        derekFLEX1.setText("--------------------");
+        derekFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(derekFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 460, 150, -1));
+        derekFLEX1.setName("derekFLEX1");
 
         derekTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekTE1.setText("--------------------");
         derekTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 500, 100, -1));
+        getContentPane().add(derekTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 500, 150, -1));
         derekTE1.setName("derekTE1");
 
         derekDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekDST1.setText("--------------------");
         derekDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(790, 540, 100, -1));
+        getContentPane().add(derekDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(790, 540, 140, -1));
         derekDST1.setName("derekDST1");
 
-        DerekK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        DerekK1.setText("--------------------");
-        DerekK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(DerekK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 580, 100, -1));
-        DerekK1.setName("derekK1");
+        derekPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        derekPK1.setText("--------------------");
+        derekPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(derekPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 580, 150, -1));
+        derekPK1.setName("derekPK1");
 
         derekB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekB1.setText("--------------------");
         derekB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 620, 100, -1));
+        getContentPane().add(derekB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 620, 150, -1));
         derekB1.setName("derekB1");
 
         derekB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekB2.setText("--------------------");
         derekB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 660, 100, -1));
+        getContentPane().add(derekB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 660, 150, -1));
         derekB2.setName("derekB2");
 
         derekB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekB3.setText("--------------------");
         derekB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 700, 100, -1));
+        getContentPane().add(derekB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 700, 150, -1));
         derekB3.setName("derekB3");
 
         derekB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekB4.setText("--------------------");
         derekB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 740, 100, -1));
+        getContentPane().add(derekB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 740, 150, -1));
         derekB4.setName("derekB4");
 
         derekB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         derekB5.setText("--------------------");
         derekB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(derekB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 780, 100, -1));
+        getContentPane().add(derekB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(780, 780, 150, -1));
         derekB5.setName("derekB5");
 
         jLabel89.setText("QB");
@@ -1356,7 +1356,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel93.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel93, new org.netbeans.lib.awtextra.AbsoluteConstraints(930, 420, -1, -1));
 
-        jLabel94.setText("WR3");
+        jLabel94.setText("FLEX");
         jLabel94.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel94, new org.netbeans.lib.awtextra.AbsoluteConstraints(930, 460, -1, -1));
 
@@ -1399,91 +1399,91 @@ public class FFUI extends javax.swing.JFrame {
         brandonB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonB6.setText("--------------------");
         brandonB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 820, 100, -1));
+        getContentPane().add(brandonB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 820, 150, -1));
         brandonB6.setName("brandonB6");
 
         brandonQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonQB1.setText("--------------------");
         brandonQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 260, 100, -1));
+        getContentPane().add(brandonQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 260, 150, -1));
         brandonQB1.setName("brandonQB1");
 
         brandonRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonRB1.setText("--------------------");
         brandonRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 300, 100, -1));
+        getContentPane().add(brandonRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 300, 150, -1));
         brandonRB1.setName("brandonRB1");
 
         brandonRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonRB2.setText("--------------------");
         brandonRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 340, 100, -1));
+        getContentPane().add(brandonRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 340, 150, -1));
         brandonRB2.setName("brandonRB2");
 
         brandonWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonWR1.setText("--------------------");
         brandonWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 380, 100, -1));
+        getContentPane().add(brandonWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 380, 150, -1));
         brandonWR1.setName("brandonWR1");
 
         brandonWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonWR2.setText("--------------------");
         brandonWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 420, 100, -1));
+        getContentPane().add(brandonWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 420, 150, -1));
         brandonWR2.setName("brandonWR2");
 
-        brandonWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        brandonWR3.setText("--------------------");
-        brandonWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 460, 100, -1));
-        brandonWR3.setName("brandonWR3");
+        brandonFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        brandonFLEX1.setText("--------------------");
+        brandonFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(brandonFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 460, 150, -1));
+        brandonFLEX1.setName("brandonFLEX1");
 
         brandonTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonTE1.setText("--------------------");
         brandonTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 500, 100, -1));
+        getContentPane().add(brandonTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 500, 150, -1));
         brandonTE1.setName("brandonTE1");
 
         brandonDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonDST1.setText("--------------------");
         brandonDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(970, 540, 100, -1));
+        getContentPane().add(brandonDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(970, 540, 140, -1));
         brandonDST1.setName("brandonDST1");
 
-        BrandonK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        BrandonK1.setText("--------------------");
-        BrandonK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(BrandonK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 580, 100, -1));
-        BrandonK1.setName("brandonK1");
+        brandonPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        brandonPK1.setText("--------------------");
+        brandonPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(brandonPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 580, 150, -1));
+        brandonPK1.setName("brandonPK1");
 
         brandonB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonB1.setText("--------------------");
         brandonB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 620, 100, -1));
+        getContentPane().add(brandonB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 620, 150, -1));
         brandonB1.setName("brandonB1");
 
         brandonB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonB2.setText("--------------------");
         brandonB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 660, 100, -1));
+        getContentPane().add(brandonB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 660, 150, -1));
         brandonB2.setName("brandonB2");
 
         brandonB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonB3.setText("--------------------");
         brandonB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 700, 100, -1));
+        getContentPane().add(brandonB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 700, 150, -1));
         brandonB3.setName("brandonB3");
 
         brandonB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonB4.setText("--------------------");
         brandonB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 740, 100, -1));
+        getContentPane().add(brandonB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 740, 150, -1));
         brandonB4.setName("brandonB4");
 
         brandonB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         brandonB5.setText("--------------------");
         brandonB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(brandonB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 780, 100, -1));
+        getContentPane().add(brandonB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 780, 150, -1));
         brandonB5.setName("brandonB5");
 
         jLabel104.setText("QB");
@@ -1506,7 +1506,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel108.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel108, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 420, -1, -1));
 
-        jLabel109.setText("WR3");
+        jLabel109.setText("FLEX");
         jLabel109.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel109, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 460, -1, -1));
 
@@ -1549,91 +1549,91 @@ public class FFUI extends javax.swing.JFrame {
         tkB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkB6.setText("--------------------");
         tkB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 820, 100, -1));
+        getContentPane().add(tkB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 820, 150, -1));
         tkB6.setName("tkB6");
 
         tkQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkQB1.setText("--------------------");
         tkQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 260, 100, -1));
+        getContentPane().add(tkQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 260, 150, -1));
         tkQB1.setName("tkQB1");
 
         tkRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkRB1.setText("--------------------");
         tkRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 300, 100, -1));
+        getContentPane().add(tkRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 300, 150, -1));
         tkRB1.setName("tkRB1");
 
         tkRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkRB2.setText("--------------------");
         tkRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 340, 100, -1));
+        getContentPane().add(tkRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 340, 150, -1));
         tkRB2.setName("tkRB2");
 
         tkWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkWR1.setText("--------------------");
         tkWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 380, 100, -1));
+        getContentPane().add(tkWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 380, 150, -1));
         tkWR1.setName("tkWR1");
 
         tkWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkWR2.setText("--------------------");
         tkWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 420, 100, -1));
+        getContentPane().add(tkWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 420, 150, -1));
         tkWR2.setName("tkWR2");
 
-        tkWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        tkWR3.setText("--------------------");
-        tkWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 460, 100, -1));
-        tkWR3.setName("tkWR3");
+        tkFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        tkFLEX1.setText("--------------------");
+        tkFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(tkFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 460, 150, -1));
+        tkFLEX1.setName("tkFLEX1");
 
         tkTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkTE1.setText("--------------------");
         tkTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 500, 100, -1));
+        getContentPane().add(tkTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 500, 150, -1));
         tkTE1.setName("tkTE1");
 
         tkDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkDST1.setText("--------------------");
         tkDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1150, 540, 100, -1));
+        getContentPane().add(tkDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1150, 540, 140, -1));
         tkDST1.setName("tkDST1");
 
-        tkK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        tkK1.setText("--------------------");
-        tkK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 580, 100, -1));
-        tkK1.setName("tkK1");
+        tkPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        tkPK1.setText("--------------------");
+        tkPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(tkPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 580, 150, -1));
+        tkPK1.setName("tkPK1");
 
         tkB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkB1.setText("--------------------");
         tkB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 620, 100, -1));
+        getContentPane().add(tkB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 620, 150, -1));
         tkB1.setName("tkB1");
 
         tkB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkB2.setText("--------------------");
         tkB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 660, 100, -1));
+        getContentPane().add(tkB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 660, 150, -1));
         tkB2.setName("tkB2");
 
         tkB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkB3.setText("--------------------");
         tkB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 700, 100, -1));
+        getContentPane().add(tkB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 700, 150, -1));
         tkB3.setName("tkB3");
 
         tkB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkB4.setText("--------------------");
         tkB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 740, 100, -1));
+        getContentPane().add(tkB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 740, 150, -1));
         tkB4.setName("tkB4");
 
         tkB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         tkB5.setText("--------------------");
         tkB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(tkB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 780, 100, -1));
+        getContentPane().add(tkB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1140, 780, 150, -1));
         tkB5.setName("tkB5");
 
         jLabel119.setText("QB");
@@ -1656,7 +1656,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel123.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel123, new org.netbeans.lib.awtextra.AbsoluteConstraints(1290, 420, -1, -1));
 
-        jLabel124.setText("WR3");
+        jLabel124.setText("FLEX");
         jLabel124.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel124, new org.netbeans.lib.awtextra.AbsoluteConstraints(1290, 460, -1, -1));
 
@@ -1699,91 +1699,91 @@ public class FFUI extends javax.swing.JFrame {
         devinB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinB6.setText("--------------------");
         devinB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 820, 100, -1));
+        getContentPane().add(devinB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 820, 150, -1));
         devinB6.setName("devinB6");
 
         devinQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinQB1.setText("--------------------");
         devinQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 260, 100, -1));
+        getContentPane().add(devinQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 260, 150, -1));
         devinQB1.setName("devinQB1");
 
         devinRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinRB1.setText("--------------------");
         devinRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 300, 100, -1));
+        getContentPane().add(devinRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 300, 150, -1));
         devinRB1.setName("devinRB1");
 
         devinRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinRB2.setText("--------------------");
         devinRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 340, 100, -1));
+        getContentPane().add(devinRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 340, 150, -1));
         devinRB2.setName("devinRB2");
 
         devinWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinWR1.setText("--------------------");
         devinWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 380, 100, -1));
+        getContentPane().add(devinWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 380, 150, -1));
         devinWR1.setName("devinWR1");
 
         devinWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinWR2.setText("--------------------");
         devinWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 420, 100, -1));
+        getContentPane().add(devinWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 420, 150, -1));
         devinWR2.setName("devinWR2");
 
-        devinWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        devinWR3.setText("--------------------");
-        devinWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 460, 100, -1));
-        devinWR3.setName("devinWR3");
+        devinFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        devinFLEX1.setText("--------------------");
+        devinFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(devinFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 460, 150, -1));
+        devinFLEX1.setName("devinFLEX1");
 
         devinTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinTE1.setText("--------------------");
         devinTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 500, 100, -1));
+        getContentPane().add(devinTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 500, 150, -1));
         devinTE1.setName("devinTE1");
 
         devinDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinDST1.setText("--------------------");
         devinDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1330, 540, 100, -1));
+        getContentPane().add(devinDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1330, 540, 140, -1));
         devinDST1.setName("devinDST1");
 
-        devinK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        devinK1.setText("--------------------");
-        devinK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 580, 100, -1));
-        devinK1.setName("devinK1");
+        devinPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        devinPK1.setText("--------------------");
+        devinPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(devinPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 580, 150, -1));
+        devinPK1.setName("devinPK1");
 
         devinB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinB1.setText("--------------------");
         devinB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 620, 100, -1));
+        getContentPane().add(devinB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 620, 150, -1));
         devinB1.setName("devinB1");
 
         devinB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinB2.setText("--------------------");
         devinB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 660, 100, -1));
+        getContentPane().add(devinB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 660, 150, -1));
         devinB2.setName("devinB2");
 
         devinB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinB3.setText("--------------------");
         devinB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 700, 100, -1));
+        getContentPane().add(devinB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 700, 150, -1));
         devinB3.setName("devinB3");
 
         devinB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinB4.setText("--------------------");
         devinB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 740, 100, -1));
+        getContentPane().add(devinB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 740, 150, -1));
         devinB4.setName("devinB4");
 
         devinB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         devinB5.setText("--------------------");
         devinB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(devinB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 780, 100, -1));
+        getContentPane().add(devinB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1320, 780, 150, -1));
         devinB5.setName("devinB5");
 
         jLabel134.setText("QB");
@@ -1806,7 +1806,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel138.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel138, new org.netbeans.lib.awtextra.AbsoluteConstraints(1470, 420, -1, -1));
 
-        jLabel139.setText("WR3");
+        jLabel139.setText("FLEX");
         jLabel139.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel139, new org.netbeans.lib.awtextra.AbsoluteConstraints(1470, 460, -1, -1));
 
@@ -1849,91 +1849,91 @@ public class FFUI extends javax.swing.JFrame {
         keithB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithB6.setText("--------------------");
         keithB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 820, 100, -1));
+        getContentPane().add(keithB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 820, 150, -1));
         keithB6.setName("keithB6");
 
         keithQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithQB1.setText("--------------------");
         keithQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 260, 100, -1));
+        getContentPane().add(keithQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 260, 150, -1));
         keithQB1.setName("keithQB1");
 
         keithRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithRB1.setText("--------------------");
         keithRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 300, 100, -1));
+        getContentPane().add(keithRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 300, 150, -1));
         keithRB1.setName("keithRB1");
 
         keithRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithRB2.setText("--------------------");
         keithRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 340, 100, -1));
+        getContentPane().add(keithRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 340, 150, -1));
         keithRB2.setName("keithRB2");
 
         keithWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithWR1.setText("--------------------");
         keithWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 380, 100, -1));
+        getContentPane().add(keithWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 380, 150, -1));
         keithWR1.setName("keithWR1");
 
         keithWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithWR2.setText("--------------------");
         keithWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 420, 100, -1));
+        getContentPane().add(keithWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 420, 150, -1));
         keithWR2.setName("keithWR2");
 
-        keithWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        keithWR3.setText("--------------------");
-        keithWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 460, 100, -1));
-        keithWR3.setName("keithWR3");
+        keithFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        keithFLEX1.setText("--------------------");
+        keithFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(keithFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 460, 150, -1));
+        keithFLEX1.setName("keithFLEX1");
 
         keithTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithTE1.setText("--------------------");
         keithTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 500, 100, -1));
+        getContentPane().add(keithTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 500, 150, -1));
         keithTE1.setName("keithTE1");
 
         keithDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithDST1.setText("--------------------");
         keithDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1510, 540, 100, -1));
+        getContentPane().add(keithDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1510, 540, 140, -1));
         keithDST1.setName("keithDST1");
 
-        keithK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        keithK1.setText("--------------------");
-        keithK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 580, 100, -1));
-        keithK1.setName("keithK1");
+        keithPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        keithPK1.setText("--------------------");
+        keithPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(keithPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 580, 150, -1));
+        keithPK1.setName("keithPK1");
 
         keithB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithB1.setText("--------------------");
         keithB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 620, 100, -1));
+        getContentPane().add(keithB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 620, 150, -1));
         keithB1.setName("keithB1");
 
         keithB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithB2.setText("--------------------");
         keithB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 660, 100, -1));
+        getContentPane().add(keithB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 660, 150, -1));
         keithB2.setName("keithB2");
 
         keithB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithB3.setText("--------------------");
         keithB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 700, 100, -1));
+        getContentPane().add(keithB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 700, 150, -1));
         keithB3.setName("keithB3");
 
         keithB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithB4.setText("--------------------");
         keithB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 740, 100, -1));
+        getContentPane().add(keithB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 740, 150, -1));
         keithB4.setName("keithB4");
 
         keithB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         keithB5.setText("--------------------");
         keithB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(keithB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 780, 100, -1));
+        getContentPane().add(keithB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1500, 780, 150, -1));
         keithB5.setName("keithB5");
 
         jLabel149.setText("QB");
@@ -1956,7 +1956,7 @@ public class FFUI extends javax.swing.JFrame {
         jLabel153.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel153, new org.netbeans.lib.awtextra.AbsoluteConstraints(1650, 420, -1, -1));
 
-        jLabel154.setText("WR3");
+        jLabel154.setText("FLEX");
         jLabel154.setBorder(javax.swing.BorderFactory.createCompoundBorder());
         getContentPane().add(jLabel154, new org.netbeans.lib.awtextra.AbsoluteConstraints(1650, 460, -1, -1));
 
@@ -1999,91 +1999,91 @@ public class FFUI extends javax.swing.JFrame {
         johnB6.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnB6.setText("--------------------");
         johnB6.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 820, 100, -1));
+        getContentPane().add(johnB6, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 820, 130, -1));
         johnB6.setName("johnB6");
 
         johnQB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnQB1.setText("--------------------");
         johnQB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 260, 100, -1));
+        getContentPane().add(johnQB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 260, 130, -1));
         johnQB1.setName("johnQB1");
 
         johnRB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnRB1.setText("--------------------");
         johnRB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 300, 100, -1));
+        getContentPane().add(johnRB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 300, 130, -1));
         johnRB1.setName("johnRB1");
 
         johnRB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnRB2.setText("--------------------");
         johnRB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 340, 100, -1));
+        getContentPane().add(johnRB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 340, 130, -1));
         johnRB2.setName("johnRB2");
 
         johnWR1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnWR1.setText("--------------------");
         johnWR1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 380, 100, -1));
+        getContentPane().add(johnWR1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 380, 130, -1));
         johnWR1.setName("johnWR1");
 
         johnWR2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnWR2.setText("--------------------");
         johnWR2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 420, 100, -1));
+        getContentPane().add(johnWR2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 420, 130, -1));
         johnWR2.setName("johnWR2");
 
-        johnWR3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        johnWR3.setText("--------------------");
-        johnWR3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnWR3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 460, 100, -1));
-        johnWR3.setName("johnWR3");
+        johnFLEX1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        johnFLEX1.setText("--------------------");
+        johnFLEX1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(johnFLEX1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 460, 130, -1));
+        johnFLEX1.setName("johnFLEX1");
 
         johnTE1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnTE1.setText("--------------------");
         johnTE1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 500, 100, -1));
+        getContentPane().add(johnTE1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 500, 130, -1));
         johnTE1.setName("johnTE1");
 
         johnDST1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnDST1.setText("--------------------");
         johnDST1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1690, 540, 100, -1));
+        getContentPane().add(johnDST1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1690, 540, 120, -1));
         johnDST1.setName("johnDST1");
 
-        johnK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        johnK1.setText("--------------------");
-        johnK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 580, 100, -1));
-        johnK1.setName("johnK1");
+        johnPK1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
+        johnPK1.setText("--------------------");
+        johnPK1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
+        getContentPane().add(johnPK1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 580, 130, -1));
+        johnPK1.setName("johnPK1");
 
         johnB1.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnB1.setText("--------------------");
         johnB1.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 620, 100, -1));
+        getContentPane().add(johnB1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 620, 130, -1));
         johnB1.setName("johnB1");
 
         johnB2.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnB2.setText("--------------------");
         johnB2.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 660, 100, -1));
+        getContentPane().add(johnB2, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 660, 130, -1));
         johnB2.setName("johnB2");
 
         johnB3.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnB3.setText("--------------------");
         johnB3.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 700, 100, -1));
+        getContentPane().add(johnB3, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 700, 130, -1));
         johnB3.setName("johnB3");
 
         johnB4.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnB4.setText("--------------------");
         johnB4.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 740, 100, -1));
+        getContentPane().add(johnB4, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 740, 130, -1));
         johnB4.setName("johnB4");
 
         johnB5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         johnB5.setText("--------------------");
         johnB5.setBorder(javax.swing.BorderFactory.createCompoundBorder());
-        getContentPane().add(johnB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 780, 100, -1));
+        getContentPane().add(johnB5, new org.netbeans.lib.awtextra.AbsoluteConstraints(1680, 780, 130, -1));
         johnB5.setName("johnB5");
 
         jButton1.setText("Draft!");
@@ -2320,8 +2320,6 @@ public class FFUI extends javax.swing.JFrame {
         });
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
-    private javax.swing.JLabel BrandonK1;
-    private javax.swing.JLabel DerekK1;
     private javax.swing.JLabel brandonB1;
     private javax.swing.JLabel brandonB2;
     private javax.swing.JLabel brandonB3;
@@ -2329,16 +2327,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel brandonB5;
     private javax.swing.JLabel brandonB6;
     private javax.swing.JLabel brandonDST1;
+    private javax.swing.JLabel brandonFLEX1;
     private javax.swing.JLabel brandonMaxBid;
     private javax.swing.JLabel brandonMoneyLeft;
     private javax.swing.JLabel brandonNameLabel;
+    private javax.swing.JLabel brandonPK1;
     private javax.swing.JLabel brandonQB1;
     private javax.swing.JLabel brandonRB1;
     private javax.swing.JLabel brandonRB2;
     private javax.swing.JLabel brandonTE1;
     private javax.swing.JLabel brandonWR1;
     private javax.swing.JLabel brandonWR2;
-    private javax.swing.JLabel brandonWR3;
     private javax.swing.JLabel chrisB1;
     private javax.swing.JLabel chrisB2;
     private javax.swing.JLabel chrisB3;
@@ -2346,17 +2345,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel chrisB5;
     private javax.swing.JLabel chrisB6;
     private javax.swing.JLabel chrisDST1;
-    private javax.swing.JLabel chrisK1;
+    private javax.swing.JLabel chrisFLEX1;
     private javax.swing.JLabel chrisMaxBid;
     private javax.swing.JLabel chrisMoneyLeft;
     private javax.swing.JLabel chrisNameLabel;
+    private javax.swing.JLabel chrisPK1;
     private javax.swing.JLabel chrisQB1;
     private javax.swing.JLabel chrisRB1;
     private javax.swing.JLabel chrisRB2;
     private javax.swing.JLabel chrisTE1;
     private javax.swing.JLabel chrisWR1;
     private javax.swing.JLabel chrisWR2;
-    private javax.swing.JLabel chrisWR3;
     private javax.swing.JLabel derekB1;
     private javax.swing.JLabel derekB2;
     private javax.swing.JLabel derekB3;
@@ -2364,16 +2363,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel derekB5;
     private javax.swing.JLabel derekB6;
     private javax.swing.JLabel derekDST1;
+    private javax.swing.JLabel derekFLEX1;
     private javax.swing.JLabel derekMaxBid;
     private javax.swing.JLabel derekMoneyLeft;
     private javax.swing.JLabel derekNameLabel;
+    private javax.swing.JLabel derekPK1;
     private javax.swing.JLabel derekQB1;
     private javax.swing.JLabel derekRB1;
     private javax.swing.JLabel derekRB2;
     private javax.swing.JLabel derekTE1;
     private javax.swing.JLabel derekWR1;
     private javax.swing.JLabel derekWR2;
-    private javax.swing.JLabel derekWR3;
     private javax.swing.JLabel devinB1;
     private javax.swing.JLabel devinB2;
     private javax.swing.JLabel devinB3;
@@ -2381,17 +2381,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel devinB5;
     private javax.swing.JLabel devinB6;
     private javax.swing.JLabel devinDST1;
-    private javax.swing.JLabel devinK1;
+    private javax.swing.JLabel devinFLEX1;
     private javax.swing.JLabel devinMaxBid;
     private javax.swing.JLabel devinMoneyLeft;
     private javax.swing.JLabel devinNameLabel;
+    private javax.swing.JLabel devinPK1;
     private javax.swing.JLabel devinQB1;
     private javax.swing.JLabel devinRB1;
     private javax.swing.JLabel devinRB2;
     private javax.swing.JLabel devinTE1;
     private javax.swing.JLabel devinWR1;
     private javax.swing.JLabel devinWR2;
-    private javax.swing.JLabel devinWR3;
     private javax.swing.JButton jButton1;
     private static javax.swing.JComboBox jComboBox1;
     private static javax.swing.JComboBox jComboBox2;
@@ -2569,17 +2569,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel johnB5;
     private javax.swing.JLabel johnB6;
     private javax.swing.JLabel johnDST1;
-    private javax.swing.JLabel johnK1;
+    private javax.swing.JLabel johnFLEX1;
     private javax.swing.JLabel johnMaxBid;
     private javax.swing.JLabel johnMoneyLeft;
     private javax.swing.JLabel johnNameLabel;
+    private javax.swing.JLabel johnPK1;
     private javax.swing.JLabel johnQB1;
     private javax.swing.JLabel johnRB1;
     private javax.swing.JLabel johnRB2;
     private javax.swing.JLabel johnTE1;
     private javax.swing.JLabel johnWR1;
     private javax.swing.JLabel johnWR2;
-    private javax.swing.JLabel johnWR3;
     private javax.swing.JLabel keithB1;
     private javax.swing.JLabel keithB2;
     private javax.swing.JLabel keithB3;
@@ -2587,17 +2587,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel keithB5;
     private javax.swing.JLabel keithB6;
     private javax.swing.JLabel keithDST1;
-    private javax.swing.JLabel keithK1;
+    private javax.swing.JLabel keithFLEX1;
     private javax.swing.JLabel keithMaxBid;
     private javax.swing.JLabel keithMoneyLeft;
     private javax.swing.JLabel keithNameLabel;
+    private javax.swing.JLabel keithPK1;
     private javax.swing.JLabel keithQB1;
     private javax.swing.JLabel keithRB1;
     private javax.swing.JLabel keithRB2;
     private javax.swing.JLabel keithTE1;
     private javax.swing.JLabel keithWR1;
     private javax.swing.JLabel keithWR2;
-    private javax.swing.JLabel keithWR3;
     private javax.swing.JLabel moneyLeftVinnie;
     private javax.swing.JLabel moneyLeftVinnie1;
     private javax.swing.JLabel moneyLeftVinnie2;
@@ -2618,17 +2618,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel ryanB5;
     private javax.swing.JLabel ryanB6;
     private javax.swing.JLabel ryanDST1;
-    private javax.swing.JLabel ryanK1;
+    private javax.swing.JLabel ryanFLEX1;
     private javax.swing.JLabel ryanMaxBid;
     private javax.swing.JLabel ryanMoneyLeft;
     private javax.swing.JLabel ryanNameLabel;
+    private javax.swing.JLabel ryanPK1;
     private javax.swing.JLabel ryanQB1;
     private javax.swing.JLabel ryanRB1;
     private javax.swing.JLabel ryanRB2;
     private javax.swing.JLabel ryanTE1;
     private javax.swing.JLabel ryanWR1;
     private javax.swing.JLabel ryanWR2;
-    private javax.swing.JLabel ryanWR3;
     private javax.swing.JLabel tkB1;
     private javax.swing.JLabel tkB2;
     private javax.swing.JLabel tkB3;
@@ -2636,17 +2636,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel tkB5;
     private javax.swing.JLabel tkB6;
     private javax.swing.JLabel tkDST1;
-    private javax.swing.JLabel tkK1;
+    private javax.swing.JLabel tkFLEX1;
     private javax.swing.JLabel tkMaxBid;
     private javax.swing.JLabel tkMoneyLeft;
     private javax.swing.JLabel tkNameLabel;
+    private javax.swing.JLabel tkPK1;
     private javax.swing.JLabel tkQB1;
     private javax.swing.JLabel tkRB1;
     private javax.swing.JLabel tkRB2;
     private javax.swing.JLabel tkTE1;
     private javax.swing.JLabel tkWR1;
     private javax.swing.JLabel tkWR2;
-    private javax.swing.JLabel tkWR3;
     private javax.swing.JLabel vinceB1;
     private javax.swing.JLabel vinceB2;
     private javax.swing.JLabel vinceB3;
@@ -2654,17 +2654,17 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel vinceB5;
     private javax.swing.JLabel vinceB6;
     private javax.swing.JLabel vinceDST1;
-    private javax.swing.JLabel vinceK1;
+    private javax.swing.JLabel vinceFLEX1;
     private javax.swing.JLabel vinceMaxBid;
     private javax.swing.JLabel vinceMoneyLeft;
     private javax.swing.JLabel vinceNameLabel;
+    private javax.swing.JLabel vincePK1;
     private javax.swing.JLabel vinceQB1;
     private javax.swing.JLabel vinceRB1;
     private javax.swing.JLabel vinceRB2;
     private javax.swing.JLabel vinceTE1;
     private javax.swing.JLabel vinceWR1;
     private javax.swing.JLabel vinceWR2;
-    private javax.swing.JLabel vinceWR3;
     private javax.swing.JLabel vinnieB1;
     private javax.swing.JLabel vinnieB2;
     private javax.swing.JLabel vinnieB3;
@@ -2672,16 +2672,16 @@ public class FFUI extends javax.swing.JFrame {
     private javax.swing.JLabel vinnieB5;
     private javax.swing.JLabel vinnieB6;
     private javax.swing.JLabel vinnieDST1;
-    private javax.swing.JLabel vinnieK1;
+    private javax.swing.JLabel vinnieFLEX1;
     private javax.swing.JLabel vinnieMaxBid;
     private javax.swing.JLabel vinnieMoneyLeft;
     private javax.swing.JLabel vinnieNameLabel;
+    private javax.swing.JLabel vinniePK1;
     private javax.swing.JLabel vinnieQB1;
     private javax.swing.JLabel vinnieRB1;
     private javax.swing.JLabel vinnieRB2;
     private javax.swing.JLabel vinnieTE1;
     private javax.swing.JLabel vinnieWR1;
     private javax.swing.JLabel vinnieWR2;
-    private javax.swing.JLabel vinnieWR3;
     // End of variables declaration//GEN-END:variables
 }
