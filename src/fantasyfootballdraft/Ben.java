@@ -35,4 +35,9 @@ public class Ben extends Position{
         }
         return isStarter() ? super.getRosterSpot() : -999;
     }
+
+    @Override
+    public boolean canFlex() {
+        return false;
+    }
 }

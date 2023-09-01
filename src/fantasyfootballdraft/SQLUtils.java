@@ -28,7 +28,7 @@ public class SQLUtils {
   public void connectToDataBase() throws Exception{
 	  try {
 	      Class.forName("org.postgresql.Driver");
-              String url = "jdbc:postgresql://fantasy.cqkuioum3e1f.us-east-1.rds.amazonaws.com:5432/fantasy";
+              String url = "jdbc:postgresql://0.0.0.0:5432/postgres";
               Properties props = new Properties();
               props.setProperty("user","postgres");
               props.setProperty("password","postgres");
@@ -49,7 +49,8 @@ public class SQLUtils {
               .executeQuery("select p.name as name, p.position as position, p.bye_week as byeWeek, t.name as teamName "
                       + "from fantasy_football.players p "
                       + "join fantasy_football.teams t "
-                      + "on t.id = p.team_id");
+                      + "on t.id = p.team_id "
+                      + "order by p.name asc");
       
       return resultSet;
   }

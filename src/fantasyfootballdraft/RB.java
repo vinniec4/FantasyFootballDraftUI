@@ -26,4 +26,9 @@ public class RB extends Position{
     public int getNumOfStartingSpots() {
         return NUM_OF_STARTING_SPOTS;
     }
+    
+    @Override
+    public boolean canFlex() {
+        return true;
+    }
 }

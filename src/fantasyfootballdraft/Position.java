@@ -24,6 +24,8 @@ public abstract class Position {
     
     public abstract int getNumOfStartingSpots();
     
+    public abstract boolean canFlex();
+    
     public int getTotalNum() {
         return totalNum;
     }

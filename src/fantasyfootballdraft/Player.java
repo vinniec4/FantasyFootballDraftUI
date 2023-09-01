@@ -21,6 +21,7 @@ public class Player {
     private Position wr = null;
     private Position rb = null;
     private Position te = null;
+    private Position flex = null;
     private Position k = null;
     private Position def = null;
     private Position ben = null;
@@ -28,23 +29,43 @@ public class Player {
     
     public String findRosterSpot(String position){
         Position spot = getPositionNumber(position);
-        if(spot.isStarter()){
-            spot.increaseRosterSpot();
-            setCanDraft(true);
-            return name + position.toUpperCase() + spot.getRosterSpot();
+        if (spot.isStarter()) {
+            return handleStarter(position, spot);
+        } else {
+            if (spot.canFlex()) {
+                return handleFlex(position, spot);
+            }
+            return handleBench(position, spot);
+        }
+    }
+    
+    private String handleFlex(String position, Position spot) {
+        if (spot.canFlex()) {
+            spot = this.getFlex();
+            if (spot.isStarter()) {
+                return handleStarter("flex", spot);
+            }
+        }
+        return handleBench(position, spot);
+    }
+    
+    private String handleStarter(String position, Position spot) {
+        spot.increaseRosterSpot();
+        setCanDraft(true);
+        return name + position.toUpperCase() + spot.getRosterSpot();
+    }
+    
+    private String handleBench(String position, Position spot) {
+        spot = this.getBen();
+        spot.increaseRosterSpot();
+        if(spot.getRosterSpot() == -999){                
+            FFUI.printout("Bench is full. You can't have that player");
+            setCanDraft(false);
+            return "";
         }
         else{
-            spot = this.getBen();
-            spot.increaseRosterSpot();
-            if(spot.getRosterSpot() == -999){                
-                FFUI.printout("Bench is full. You can't have that player");
-                setCanDraft(false);
-                return "";
-            }
-            else{
-                setCanDraft(true);
-                return name + "B" + spot.getRosterSpot();                
-            }
+            setCanDraft(true);
+            return name + "B" + spot.getRosterSpot();                
         }
     }
     
@@ -81,7 +102,7 @@ public class Player {
         else if("dst".equalsIgnoreCase(position)){
             p = this.getDef();
         }
-        else if("k".equalsIgnoreCase(position)){
+        else if("pk".equalsIgnoreCase(position)){
             p = this.getK();
         }
         return p;
@@ -227,13 +248,24 @@ public class Player {
 
     public Position getTe() {
         if(!hasInstance(te)){            
-            te = new OnePosition();
+            te = new TE();
         }
         return te;
     }
 
     public void setTe(Position te) {
         this.te = te;
+    }
+
+    public Position getFlex() {
+        if(!hasInstance(flex)){            
+            flex = new OnePosition();
+        }
+        return flex;
+    }
+
+    public void setFlex(Position flex) {
+        this.flex = flex;
     }
 
     public Position getWr() {
